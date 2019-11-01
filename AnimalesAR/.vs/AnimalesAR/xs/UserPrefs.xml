@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E3E656EC-A82A-B3AB-3B8B-D14A5BC5CBD8}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/spawn.cs">
+    <Files>
+      <File FileName="../Pruebas/Assets/move.cs" Line="39" Column="61" />
+      <File FileName="Assets/Scripts/RandomlyMove.cs" Line="50" Column="46" />
+      <File FileName="Assets/Scripts/spawn.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
